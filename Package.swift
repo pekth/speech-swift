@@ -10,7 +10,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/huggingface/swift-transformers",
-            exact: "1.3.3"
+            exact: "1.1.6"
         )
     ],
     targets: [
